@@ -17,6 +17,3 @@ Contributions and bug fixes an be contributed as patch file and posted to the
 
 * [WEKA Homepage](https://www.cs.waikato.ac.nz/ml/weka/)
 
-## Software Quality Engineering
- * Setup Integrated Continuous Deployment with Jenkins
-
